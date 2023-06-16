@@ -11,4 +11,5 @@ public class AdminController {
         return "admin";
     }
 
+    //todo we need the ability to openai ennpoint
 }
